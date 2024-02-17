@@ -188,3 +188,14 @@ main section {
   text-align: center;
   margin-top: 50px;
 }
+
+/* Footer Related Styles */
+footer {
+  display: flex;
+  background-color: #fff8f3;
+  padding: 130px 200px;
+  margin-top: 100px;
+}
+.footer-column {
+  flex: 1;
+}
